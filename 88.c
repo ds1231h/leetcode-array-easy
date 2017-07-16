@@ -52,3 +52,9 @@ int main()
     }
     return 0;
 }
+
+/*
+ Merge the second array into the first one. The two arrays are sorted.
+
+ The element in the second array only has three ways to merge into the first array.
+ */
